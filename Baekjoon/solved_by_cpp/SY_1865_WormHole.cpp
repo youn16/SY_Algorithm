@@ -2,6 +2,7 @@
 백준 1865번 웜홀 문제 by SY
 벨만포드 알고리즘을 적용한 문제이다.
 음수 사이클을 찾는 방법에 대한 고찰이 필요한 문제.
+Date : 2020.09.26
 */
 #include <iostream>
 #include <vector>

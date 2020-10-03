@@ -1,3 +1,7 @@
+/*
+백준 - 
+DATE : 2020.07.20
+*/
 #include <iostream>
 using namespace std;
 int find_z(int n,int r,int c) {

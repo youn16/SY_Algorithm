@@ -1,8 +1,3 @@
-/*
-백준 - 
-solved by SY
-DATE : 2020.07.26
-*/
 #include<iostream>
 #include<algorithm>
 using namespace std;

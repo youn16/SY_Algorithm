@@ -33,3 +33,5 @@
 
 #etc
 CodingTest/
+.vscode/
+*.exe

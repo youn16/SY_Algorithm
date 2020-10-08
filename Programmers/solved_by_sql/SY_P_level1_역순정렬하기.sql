@@ -1,0 +1,8 @@
+/*
+프로그래머스 - 역순정렬하기
+by SY
+DATE : 2020.10.08
+*/
+SELECT NAME, DATETIME
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID desc

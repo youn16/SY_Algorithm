@@ -1,0 +1,8 @@
+/*
+프로그래머스 - 아픈 동물 찾기
+by SY
+DATE : 2020.10.08
+*/
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE INTAKE_CONDITION = "Sick"

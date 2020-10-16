@@ -1,3 +1,7 @@
+/*
+프로그래머스 - level3 : 외벽 점검
+solved by SY
+*/
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -16,6 +20,7 @@ int solution(int n, vector<int> weak, vector<int> dist) {
 			}
 			weak[j - 1] = tmp;
 		}
+		//week : 5,6,10,13
 
 		while (true) {
 			int w_num = 0;

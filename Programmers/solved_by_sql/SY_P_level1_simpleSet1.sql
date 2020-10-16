@@ -42,7 +42,7 @@ SELECT ANIMAL_ID
 from ANIMAL_INS
 where name is not null
 
--- 고양이와 개는 몇 마리 있을
+-- 고양이와 개는 몇 마리 있을까용
 /*
 order by 부분의 실행 원리가 이해가 안됨...
 order by 는 마지막에 서브 그룹에 적용된다.

@@ -39,7 +39,7 @@ from ANIMAL_INS
 where (NAME like "%el%" or NAME like "%EL%") and ANIMAL_TYPE = "Dog"
 order by name
 
--- 중성화 여부 하악하기
+-- 중성화 여부 확인하기
 /*
 CASE WHEN THEN ELSE END문
 */

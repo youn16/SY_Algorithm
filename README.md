@@ -22,4 +22,4 @@
         - 종만북을 보고 공부하며 관련 흔적들을 남겼습니다!
 
 ## Algorithm Summary
-제 나름대로의 알고리즘 공부 요약 노트 입니다.
+제 나름대로의 [알고리즘 공부 요약 노트](./Algorithm%20Summary/README.md) 입니다.

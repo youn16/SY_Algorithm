@@ -11,5 +11,7 @@
     - [조합](./조합구현코드.md)
 
 4. 구현 살피기
-    -[트리](../Programmers/solved_by_cpp/Level3/SY_P_level3_path_finding_game.cpp)
+    - [트리](../Programmers/solved_by_cpp/Level3/SY_P_level3_path_finding_game.cpp)
     > class를 통한 트리 구현, 전위탐색, 후위탐색의 구현을 확인 할 수 있는 코드 
+    - [isSquare](../Baekjoon/2020-11/SY_B1025.cpp) 함수 구현
+    > 제곱수인지 판단하는 함수 구현

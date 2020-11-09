@@ -22,8 +22,11 @@
     2. 프로그래머스
         - 손풀기용, 파이썬 공부용 level1,2문제들과 여러 IT기업들의 기출 대비용 문제들을 풀고 기록해둡니다!
 
-    3. [알고스팟](./Algorithm%20Summary/README.md)
+    3. [알고스팟](./Algospot/README.md)
         - 종만북을 보고 공부하며 관련 흔적들을 남겼습니다!
+
+    4. [SWEA](./SWEA/README.md)
+        - SW Expert Academy 문제들 풀이
 
 ## Algorithm Summary
 제 나름대로의 [알고리즘 공부 요약 노트](./Algorithm%20Summary/README.md) 입니다.

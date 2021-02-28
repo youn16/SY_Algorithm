@@ -15,3 +15,8 @@
     - 날짜 : 2021-02-05
     - [링크](https://www.acmicpc.net/problem/2003)
     - 분류 : 투 포인터 알고리즘
+
+- ### 백준 : 1788번 - 피보나치 수의 확장
+    - 날짜 : 2021-02-27
+    - [링크](https://www.acmicpc.net/problem/2003)
+    - 분류 : DP

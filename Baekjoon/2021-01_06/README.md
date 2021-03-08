@@ -20,7 +20,7 @@
     - 날짜 : 2021-02-27
     - [링크](https://www.acmicpc.net/problem/2003)
     - 분류 : DP
-- ### 백준 : 2780번 - 
+- ### 백준 : 2780번 - 비밀번호
     - 날짜 : 2021-03-06
     - [링크](https://www.acmicpc.net/problem/2780)
     - 분류 : DP

@@ -1,4 +1,4 @@
-//b1034
+//b1034 미완성
 
 #include <iostream>
 using namespace std;

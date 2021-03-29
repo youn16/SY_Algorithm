@@ -25,3 +25,8 @@
     - [링크](https://www.acmicpc.net/problem/2780)
     - 분류 : DP
     - 미완성본!
+- ### 백준 : 1034번
+    - 날짜 : 2021-03-
+    - [링크](https://www.acmicpc.net/problem/1034)
+    - 분류 : DP
+    - 미완성본!

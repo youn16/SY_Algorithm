@@ -9,6 +9,7 @@ int main()
 	int input;
 
 	cin >> T;
+	
 	for(int i = 0; i < 10; i++)
 	{
 		dp [1][i] = 1;
@@ -35,7 +36,7 @@ int main()
 					dp[i][k] = dp[i-1][1] + dp[i-1][5] + dp[i-1][7];
 					break;
 				case 5 : 
-					dp[i][k] = dp[i-1][2] + dp[i-1][4] + dp[i-1][6] + dp[i-1][6];
+					dp[i][k] = dp[i-1][2] + dp[i-1][4] + dp[i-1][6] + dp[i-1][8];
 					break;
 				case 6 : 
 					dp[i][k] = dp[i-1][3] + dp[i-1][5] + dp[i-1][9];

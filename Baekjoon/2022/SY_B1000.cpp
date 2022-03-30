@@ -5,9 +5,11 @@ using namespace std;
 
 int main()
 {
-	
-	cout << "강한친구 대한육군\n";
-	cout << "강한친구 대한육군";
+	int A;
+	int B;
+
+	cin >> A >> B;
+	cout << A+B;
 	
 	return 0;
 }
